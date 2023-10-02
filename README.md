@@ -7,7 +7,7 @@ Many changes were needed to make original code to work from realpython tutorial.
 
 Usage:
 
-  install dependencies from requirements.txt4
+  install dependencies from requirements.txt
 
   switch to 'stack' directory and run **scrapy crawl stack**
 
